@@ -1,7 +1,11 @@
 {
-    "name": "enjoping/dxfighter",
+    "name": "qrstuff/dxfighter",
     "license": "BSD-3-Clause",
     "authors": [
+        {
+            "name": "Basant Beniwal",
+            "email": "basant.beniwal@visualead.com"
+        },
         {
             "name": "Joe Pietler",
             "email": "enjoping@gmail.com"
